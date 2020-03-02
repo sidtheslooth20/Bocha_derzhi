@@ -1,0 +1,7 @@
+﻿  PiAA_lab1.cpp
+C:\Users\samak\Desktop\PiAA_lab1\PiAA_lab1\PiAA_lab1.cpp(132,29): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=size_t
+          ]
+  PiAA_lab1.vcxproj -> C:\Users\samak\Desktop\PiAA_lab1\Debug\PiAA_lab1.exe
